@@ -34,8 +34,6 @@ public class Principal {
 		
 		List<String> listaRespuestas;
 		listaRespuestas = generaListaRespuestas();
-		
-		
 
 		// Obtain a number between [0 - 49].
 		int n = rand.nextInt(listaRespuestas.size());
