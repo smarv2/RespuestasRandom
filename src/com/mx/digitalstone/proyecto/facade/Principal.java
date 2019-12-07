@@ -42,7 +42,6 @@ public class Principal {
 		System.out.println("Respuesta: " + listaRespuestas.get(n));
 		
 		return respuesta;
-		
 	}
 
 	private static List<String> generaListaRespuestas() {
